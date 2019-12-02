@@ -151,4 +151,3 @@ print("Telescope positions from the VLA website - Science.nrao. (2019). An Overv
 print("Field of view calculation from the VLA website - Science.nrao.edu. (2019). Field of View — Science Website. [online] Available at: https://science.nrao.edu/facilities/vla/docs/manuals/oss2014A/performance/fov/referencemanual-all-pages [Accessed 28 Nov. 2019].")
 print("Primary beam calculation: Isella, A. (2012). CASA Radio Analysis Workshop. [online] Science.nrao.edu. Available at: https://science.nrao.edu/opportunities/courses/casa-caltech-winter2012/Isella_Radio_Interferometry_Basics_Caltech2012.pdf [Accessed 28 Nov. 2019].")
 
---to pdf
